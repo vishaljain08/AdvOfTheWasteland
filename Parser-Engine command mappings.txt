@@ -1,0 +1,12 @@
+Mapping of the player input and respective parser output code ot the engine:
+
+ 0: quit/q
+ 1: go north/go n/north/n
+ 2: go south/go s/south/s
+ 3: go west/go w/west/w
+ 4: go east/go e/east/e
+ 5: go north-west/go nw/north-west/nw
+ 6: go north-east/go ne/north-east/ne
+ 7: go south-west/go sw/south-west/sw
+ 8: go south-east/go se/south-east/se
+ 9: help/h
